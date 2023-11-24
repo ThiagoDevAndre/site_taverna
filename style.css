@@ -114,6 +114,10 @@ img{
         width: 100%; /* Faz ambos os elementos ocuparem 100% da largura na coluna */
     }
 
+    form p{
+        width: auto;
+    }
+
 }
 
 #discord{
@@ -175,6 +179,7 @@ form {
     font-size: 40px;
     background-color: #7A715F;
     margin-top: 40px;
+
 }
 
 form,input,textarea,button{
